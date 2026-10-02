@@ -348,16 +348,6 @@ I use practical labs and CTF environments to strengthen my understanding of real
 
 ---
 
-# `./contributions`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Ujjwal-4/Ujjwal-4/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
-
-</div>
-
----
-
 # `./connect`
 
 <div align="center">
@@ -387,7 +377,7 @@ I use practical labs and CTF environments to strengthen my understanding of real
 ```text
 ┌───────────────────────────────────────────────┐
 │                                               │
-│   BREAK  •  INVESTIGATE  •  ENGINEER  •  SECURE │
+│ BREAK  •  INVESTIGATE  •  ENGINEER  •  SECURE │
 │                                               │
 └───────────────────────────────────────────────┘
 ```
