@@ -124,7 +124,7 @@
 <br>
 
 ```text
-Wireshark • Nmap • Burp Suite • Metasploit • MITRE ATT&CK • SQLite • SQLAlchemy • WPF
+Wireshark | Nmap | Burp Suite | Metasploit | MITRE ATT&CK | SQLite | SQLAlchemy | WPF
 ```
 
 </div>
@@ -166,11 +166,6 @@ Wireshark • Nmap • Burp Suite • Metasploit • MITRE ATT&CK • SQLite •
 
 <img src="https://streak-stats.demolab.com?user=Ujjwal-4&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Ujjwal-4&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="175" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ujjwal-4&layout=compact&theme=tokyonight&hide_border=true" height="175" alt="Top Languages" />
-
 </div>
 
 ---
@@ -184,25 +179,25 @@ Wireshark • Nmap • Burp Suite • Metasploit • MITRE ATT&CK • SQLite •
 <br>
 
 <a href="https://ujjwal-4.github.io">
-  <img src="https://img.shields.io/badge/Portfolio-Visit_Website-00FF9C?style=for-the-badge&logo=googlechrome&logoColor=black&labelColor=181717"/>
+  <img src="https://img.shields.io/badge/Portfolio-00FF9C?style=for-the-badge&logo=googlechrome&logoColor=black"/>
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/ujjwal-shakya-3a89622b5">
-  <img src="https://img.shields.io/badge/LinkedIn-Ujjwal_Shakya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="mailto:ujjwalshakya486a@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://github.com/Ujjwal-4">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:ujjwalshakya486a@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br><br>
 
 ```text
-[+] Security Mindset: Build resilient systems • Investigate anomalies • Engineer for trust.
+[+] Security Mindset: Build resilient systems | Investigate anomalies | Engineer for trust.
 ```
 
 </div>
